@@ -1,0 +1,4 @@
+#Fri Aug 30 12:25:34 UTC 2024
+micronaut:
+    application:
+      name: slowproxy

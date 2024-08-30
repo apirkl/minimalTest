@@ -1,0 +1,5 @@
+applicationType: default
+defaultPackage: com.minimalTest
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
