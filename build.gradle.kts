@@ -21,6 +21,8 @@ dependencies {
     implementation("io.micronaut.serde:micronaut-serde-jackson")
     implementation("org.jetbrains.kotlin:kotlin-reflect:${kotlinVersion}")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:${kotlinVersion}")
+    implementation("io.micronaut:micronaut-http-server-netty")
+//    implementation("io.micronaut.reactor:micronaut-reactor")
     runtimeOnly("org.yaml:snakeyaml:2.2")
 }
 
